@@ -1,0 +1,20 @@
+[0.347s] Invoking command in '/home/tejasarjuna/Learning_phase/build/publisher_subscription': PYTHONPATH=/home/tejasarjuna/Learning_phase/build/publisher_subscription/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/tejasarjuna/Learning_phase/install/publisher_subscription/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/tejasarjuna/Learning_phase/build/publisher_subscription/build --no-deps symlink_data --force
+[0.494s] running develop
+[0.576s] running egg_info
+[0.576s] writing publisher_subscription.egg-info/PKG-INFO
+[0.576s] writing dependency_links to publisher_subscription.egg-info/dependency_links.txt
+[0.577s] writing entry points to publisher_subscription.egg-info/entry_points.txt
+[0.577s] writing requirements to publisher_subscription.egg-info/requires.txt
+[0.577s] writing top-level names to publisher_subscription.egg-info/top_level.txt
+[0.577s] reading manifest file 'publisher_subscription.egg-info/SOURCES.txt'
+[0.578s] writing manifest file 'publisher_subscription.egg-info/SOURCES.txt'
+[0.579s] running build_ext
+[0.579s] Creating /home/tejasarjuna/Learning_phase/install/publisher_subscription/lib/python3.10/site-packages/publisher-subscription.egg-link (link to .)
+[0.579s] Installing alt_pub script to /home/tejasarjuna/Learning_phase/install/publisher_subscription/lib/publisher_subscription
+[0.579s] Installing altitude_monitor script to /home/tejasarjuna/Learning_phase/install/publisher_subscription/lib/publisher_subscription
+[0.580s] 
+[0.580s] Installed /home/tejasarjuna/Learning_phase/build/publisher_subscription
+[0.580s] running symlink_data
+[0.580s] symbolically linking /home/tejasarjuna/Learning_phase/build/publisher_subscription/resource/publisher_subscription -> /home/tejasarjuna/Learning_phase/install/publisher_subscription/share/ament_index/resource_index/packages
+[0.580s] symbolically linking /home/tejasarjuna/Learning_phase/build/publisher_subscription/package.xml -> /home/tejasarjuna/Learning_phase/install/publisher_subscription/share/publisher_subscription
+[0.595s] Invoked command in '/home/tejasarjuna/Learning_phase/build/publisher_subscription' returned '0': PYTHONPATH=/home/tejasarjuna/Learning_phase/build/publisher_subscription/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/tejasarjuna/Learning_phase/install/publisher_subscription/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/tejasarjuna/Learning_phase/build/publisher_subscription/build --no-deps symlink_data --force

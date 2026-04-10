@@ -1,0 +1,31 @@
+running egg_info
+creating ../../build/turtle_spiral/turtle_spiral.egg-info
+writing ../../build/turtle_spiral/turtle_spiral.egg-info/PKG-INFO
+writing dependency_links to ../../build/turtle_spiral/turtle_spiral.egg-info/dependency_links.txt
+writing entry points to ../../build/turtle_spiral/turtle_spiral.egg-info/entry_points.txt
+writing requirements to ../../build/turtle_spiral/turtle_spiral.egg-info/requires.txt
+writing top-level names to ../../build/turtle_spiral/turtle_spiral.egg-info/top_level.txt
+writing manifest file '../../build/turtle_spiral/turtle_spiral.egg-info/SOURCES.txt'
+reading manifest file '../../build/turtle_spiral/turtle_spiral.egg-info/SOURCES.txt'
+writing manifest file '../../build/turtle_spiral/turtle_spiral.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/tejasarjuna/Learning_phase/build/turtle_spiral/build
+creating /home/tejasarjuna/Learning_phase/build/turtle_spiral/build/lib
+creating /home/tejasarjuna/Learning_phase/build/turtle_spiral/build/lib/turtle_spiral
+copying turtle_spiral/__init__.py -> /home/tejasarjuna/Learning_phase/build/turtle_spiral/build/lib/turtle_spiral
+running install
+running install_lib
+creating /home/tejasarjuna/Learning_phase/install/turtle_spiral/lib/python3.10/site-packages/turtle_spiral
+copying /home/tejasarjuna/Learning_phase/build/turtle_spiral/build/lib/turtle_spiral/__init__.py -> /home/tejasarjuna/Learning_phase/install/turtle_spiral/lib/python3.10/site-packages/turtle_spiral
+byte-compiling /home/tejasarjuna/Learning_phase/install/turtle_spiral/lib/python3.10/site-packages/turtle_spiral/__init__.py to __init__.cpython-310.pyc
+running install_data
+creating /home/tejasarjuna/Learning_phase/install/turtle_spiral/share/ament_index
+creating /home/tejasarjuna/Learning_phase/install/turtle_spiral/share/ament_index/resource_index
+creating /home/tejasarjuna/Learning_phase/install/turtle_spiral/share/ament_index/resource_index/packages
+copying resource/turtle_spiral -> /home/tejasarjuna/Learning_phase/install/turtle_spiral/share/ament_index/resource_index/packages
+copying package.xml -> /home/tejasarjuna/Learning_phase/install/turtle_spiral/share/turtle_spiral
+running install_egg_info
+Copying ../../build/turtle_spiral/turtle_spiral.egg-info to /home/tejasarjuna/Learning_phase/install/turtle_spiral/lib/python3.10/site-packages/turtle_spiral-0.0.0-py3.10.egg-info
+running install_scripts
+writing list of installed files to '/home/tejasarjuna/Learning_phase/build/turtle_spiral/install.log'

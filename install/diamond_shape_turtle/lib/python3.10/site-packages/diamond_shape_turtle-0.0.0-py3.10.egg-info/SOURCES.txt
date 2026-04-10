@@ -1,0 +1,16 @@
+package.xml
+setup.cfg
+setup.py
+../../build/diamond_shape_turtle/diamond_shape_turtle.egg-info/PKG-INFO
+../../build/diamond_shape_turtle/diamond_shape_turtle.egg-info/SOURCES.txt
+../../build/diamond_shape_turtle/diamond_shape_turtle.egg-info/dependency_links.txt
+../../build/diamond_shape_turtle/diamond_shape_turtle.egg-info/entry_points.txt
+../../build/diamond_shape_turtle/diamond_shape_turtle.egg-info/requires.txt
+../../build/diamond_shape_turtle/diamond_shape_turtle.egg-info/top_level.txt
+../../build/diamond_shape_turtle/diamond_shape_turtle.egg-info/zip-safe
+diamond_shape_turtle/__init__.py
+diamond_shape_turtle/diamond_movement.py
+resource/diamond_shape_turtle
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py

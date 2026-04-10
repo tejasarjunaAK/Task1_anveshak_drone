@@ -1,0 +1,33 @@
+[0.668s] Invoking command in '/home/tejasarjuna/Learning_phase/src/turtle_spiral': PYTHONPATH=/home/tejasarjuna/Learning_phase/build/turtle_spiral/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/tejasarjuna/Learning_phase/install/turtle_spiral/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/turtle_spiral build --build-base /home/tejasarjuna/Learning_phase/build/turtle_spiral/build install --record /home/tejasarjuna/Learning_phase/build/turtle_spiral/install.log --single-version-externally-managed install_data
+[0.805s] running egg_info
+[0.805s] creating ../../build/turtle_spiral/turtle_spiral.egg-info
+[0.805s] writing ../../build/turtle_spiral/turtle_spiral.egg-info/PKG-INFO
+[0.805s] writing dependency_links to ../../build/turtle_spiral/turtle_spiral.egg-info/dependency_links.txt
+[0.805s] writing entry points to ../../build/turtle_spiral/turtle_spiral.egg-info/entry_points.txt
+[0.805s] writing requirements to ../../build/turtle_spiral/turtle_spiral.egg-info/requires.txt
+[0.806s] writing top-level names to ../../build/turtle_spiral/turtle_spiral.egg-info/top_level.txt
+[0.806s] writing manifest file '../../build/turtle_spiral/turtle_spiral.egg-info/SOURCES.txt'
+[0.806s] reading manifest file '../../build/turtle_spiral/turtle_spiral.egg-info/SOURCES.txt'
+[0.807s] writing manifest file '../../build/turtle_spiral/turtle_spiral.egg-info/SOURCES.txt'
+[0.807s] running build
+[0.807s] running build_py
+[0.807s] creating /home/tejasarjuna/Learning_phase/build/turtle_spiral/build
+[0.808s] creating /home/tejasarjuna/Learning_phase/build/turtle_spiral/build/lib
+[0.808s] creating /home/tejasarjuna/Learning_phase/build/turtle_spiral/build/lib/turtle_spiral
+[0.808s] copying turtle_spiral/__init__.py -> /home/tejasarjuna/Learning_phase/build/turtle_spiral/build/lib/turtle_spiral
+[0.808s] running install
+[0.808s] running install_lib
+[0.808s] creating /home/tejasarjuna/Learning_phase/install/turtle_spiral/lib/python3.10/site-packages/turtle_spiral
+[0.808s] copying /home/tejasarjuna/Learning_phase/build/turtle_spiral/build/lib/turtle_spiral/__init__.py -> /home/tejasarjuna/Learning_phase/install/turtle_spiral/lib/python3.10/site-packages/turtle_spiral
+[0.808s] byte-compiling /home/tejasarjuna/Learning_phase/install/turtle_spiral/lib/python3.10/site-packages/turtle_spiral/__init__.py to __init__.cpython-310.pyc
+[0.808s] running install_data
+[0.808s] creating /home/tejasarjuna/Learning_phase/install/turtle_spiral/share/ament_index
+[0.809s] creating /home/tejasarjuna/Learning_phase/install/turtle_spiral/share/ament_index/resource_index
+[0.809s] creating /home/tejasarjuna/Learning_phase/install/turtle_spiral/share/ament_index/resource_index/packages
+[0.809s] copying resource/turtle_spiral -> /home/tejasarjuna/Learning_phase/install/turtle_spiral/share/ament_index/resource_index/packages
+[0.809s] copying package.xml -> /home/tejasarjuna/Learning_phase/install/turtle_spiral/share/turtle_spiral
+[0.809s] running install_egg_info
+[0.810s] Copying ../../build/turtle_spiral/turtle_spiral.egg-info to /home/tejasarjuna/Learning_phase/install/turtle_spiral/lib/python3.10/site-packages/turtle_spiral-0.0.0-py3.10.egg-info
+[0.810s] running install_scripts
+[0.823s] writing list of installed files to '/home/tejasarjuna/Learning_phase/build/turtle_spiral/install.log'
+[0.840s] Invoked command in '/home/tejasarjuna/Learning_phase/src/turtle_spiral' returned '0': PYTHONPATH=/home/tejasarjuna/Learning_phase/build/turtle_spiral/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/tejasarjuna/Learning_phase/install/turtle_spiral/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/turtle_spiral build --build-base /home/tejasarjuna/Learning_phase/build/turtle_spiral/build install --record /home/tejasarjuna/Learning_phase/build/turtle_spiral/install.log --single-version-externally-managed install_data

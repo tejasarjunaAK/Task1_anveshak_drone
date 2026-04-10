@@ -1,0 +1,36 @@
+running develop
+Removing /home/tejasarjuna/Learning_phase/install/publisher_subscription/lib/python3.10/site-packages/publisher-subscription.egg-link (link to .)
+running egg_info
+writing ../../build/publisher_subscription/publisher_subscription.egg-info/PKG-INFO
+writing dependency_links to ../../build/publisher_subscription/publisher_subscription.egg-info/dependency_links.txt
+writing entry points to ../../build/publisher_subscription/publisher_subscription.egg-info/entry_points.txt
+writing requirements to ../../build/publisher_subscription/publisher_subscription.egg-info/requires.txt
+writing top-level names to ../../build/publisher_subscription/publisher_subscription.egg-info/top_level.txt
+reading manifest file '../../build/publisher_subscription/publisher_subscription.egg-info/SOURCES.txt'
+writing manifest file '../../build/publisher_subscription/publisher_subscription.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/tejasarjuna/Learning_phase/build/publisher_subscription/build
+creating /home/tejasarjuna/Learning_phase/build/publisher_subscription/build/lib
+creating /home/tejasarjuna/Learning_phase/build/publisher_subscription/build/lib/publisher_subscription
+copying publisher_subscription/altitude_monitor.py -> /home/tejasarjuna/Learning_phase/build/publisher_subscription/build/lib/publisher_subscription
+copying publisher_subscription/alt_pub.py -> /home/tejasarjuna/Learning_phase/build/publisher_subscription/build/lib/publisher_subscription
+copying publisher_subscription/__init__.py -> /home/tejasarjuna/Learning_phase/build/publisher_subscription/build/lib/publisher_subscription
+running install
+running install_lib
+creating /home/tejasarjuna/Learning_phase/install/publisher_subscription/lib/python3.10/site-packages/publisher_subscription
+copying /home/tejasarjuna/Learning_phase/build/publisher_subscription/build/lib/publisher_subscription/altitude_monitor.py -> /home/tejasarjuna/Learning_phase/install/publisher_subscription/lib/python3.10/site-packages/publisher_subscription
+copying /home/tejasarjuna/Learning_phase/build/publisher_subscription/build/lib/publisher_subscription/alt_pub.py -> /home/tejasarjuna/Learning_phase/install/publisher_subscription/lib/python3.10/site-packages/publisher_subscription
+copying /home/tejasarjuna/Learning_phase/build/publisher_subscription/build/lib/publisher_subscription/__init__.py -> /home/tejasarjuna/Learning_phase/install/publisher_subscription/lib/python3.10/site-packages/publisher_subscription
+byte-compiling /home/tejasarjuna/Learning_phase/install/publisher_subscription/lib/python3.10/site-packages/publisher_subscription/altitude_monitor.py to altitude_monitor.cpython-310.pyc
+byte-compiling /home/tejasarjuna/Learning_phase/install/publisher_subscription/lib/python3.10/site-packages/publisher_subscription/alt_pub.py to alt_pub.cpython-310.pyc
+byte-compiling /home/tejasarjuna/Learning_phase/install/publisher_subscription/lib/python3.10/site-packages/publisher_subscription/__init__.py to __init__.cpython-310.pyc
+running install_data
+copying resource/publisher_subscription -> /home/tejasarjuna/Learning_phase/install/publisher_subscription/share/ament_index/resource_index/packages
+copying package.xml -> /home/tejasarjuna/Learning_phase/install/publisher_subscription/share/publisher_subscription
+running install_egg_info
+Copying ../../build/publisher_subscription/publisher_subscription.egg-info to /home/tejasarjuna/Learning_phase/install/publisher_subscription/lib/python3.10/site-packages/publisher_subscription-0.0.0-py3.10.egg-info
+running install_scripts
+Installing alt_pub script to /home/tejasarjuna/Learning_phase/install/publisher_subscription/lib/publisher_subscription
+Installing altitude_monitor script to /home/tejasarjuna/Learning_phase/install/publisher_subscription/lib/publisher_subscription
+writing list of installed files to '/home/tejasarjuna/Learning_phase/build/publisher_subscription/install.log'

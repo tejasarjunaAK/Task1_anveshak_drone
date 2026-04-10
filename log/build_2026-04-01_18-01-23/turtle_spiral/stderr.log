@@ -1,0 +1,5 @@
+  File "/home/tejasarjuna/Learning_phase/install/turtle_spiral/lib/python3.10/site-packages/turtle_spiral/turtle_spiral.py", line 2
+    from rclpy.node Node
+                    ^^^^
+SyntaxError: invalid syntax
+

@@ -1,0 +1,6 @@
+source;share/diamond_shape_turtle/hook/pythonpath.ps1
+source;share/diamond_shape_turtle/hook/pythonpath.dsv
+source;share/diamond_shape_turtle/hook/pythonpath.sh
+source;share/diamond_shape_turtle/hook/ament_prefix_path.ps1
+source;share/diamond_shape_turtle/hook/ament_prefix_path.dsv
+source;share/diamond_shape_turtle/hook/ament_prefix_path.sh

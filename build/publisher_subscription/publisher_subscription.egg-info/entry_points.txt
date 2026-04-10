@@ -1,0 +1,4 @@
+[console_scripts]
+alt_pub = publisher_subscription.alt_pub:main
+altitude_monitor = publisher_subscription.altitude_monitor:main
+

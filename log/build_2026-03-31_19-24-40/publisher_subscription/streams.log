@@ -1,0 +1,35 @@
+[0.347s] Invoking command in '/home/tejasarjuna/Learning_phase/build/publisher_subscription': PYTHONPATH=/home/tejasarjuna/Learning_phase/build/publisher_subscription/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/tejasarjuna/Learning_phase/install/publisher_subscription/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --uninstall --editable --build-directory /home/tejasarjuna/Learning_phase/build/publisher_subscription/build
+[0.492s] running develop
+[0.574s] Removing /home/tejasarjuna/Learning_phase/install/publisher_subscription/lib/python3.10/site-packages/publisher-subscription.egg-link (link to .)
+[0.590s] Invoked command in '/home/tejasarjuna/Learning_phase/build/publisher_subscription' returned '0': PYTHONPATH=/home/tejasarjuna/Learning_phase/build/publisher_subscription/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/tejasarjuna/Learning_phase/install/publisher_subscription/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --uninstall --editable --build-directory /home/tejasarjuna/Learning_phase/build/publisher_subscription/build
+[0.591s] Invoking command in '/home/tejasarjuna/Learning_phase/src/publisher_subscription': PYTHONPATH=/home/tejasarjuna/Learning_phase/build/publisher_subscription/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/tejasarjuna/Learning_phase/install/publisher_subscription/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/publisher_subscription build --build-base /home/tejasarjuna/Learning_phase/build/publisher_subscription/build install --record /home/tejasarjuna/Learning_phase/build/publisher_subscription/install.log --single-version-externally-managed install_data --force
+[0.732s] running egg_info
+[0.732s] writing ../../build/publisher_subscription/publisher_subscription.egg-info/PKG-INFO
+[0.733s] writing dependency_links to ../../build/publisher_subscription/publisher_subscription.egg-info/dependency_links.txt
+[0.733s] writing entry points to ../../build/publisher_subscription/publisher_subscription.egg-info/entry_points.txt
+[0.733s] writing requirements to ../../build/publisher_subscription/publisher_subscription.egg-info/requires.txt
+[0.733s] writing top-level names to ../../build/publisher_subscription/publisher_subscription.egg-info/top_level.txt
+[0.734s] reading manifest file '../../build/publisher_subscription/publisher_subscription.egg-info/SOURCES.txt'
+[0.734s] writing manifest file '../../build/publisher_subscription/publisher_subscription.egg-info/SOURCES.txt'
+[0.734s] running build
+[0.735s] running build_py
+[0.735s] copying publisher_subscription/altitude_monitor.py -> /home/tejasarjuna/Learning_phase/build/publisher_subscription/build/lib/publisher_subscription
+[0.735s] running install
+[0.735s] running install_lib
+[0.735s] creating /home/tejasarjuna/Learning_phase/install/publisher_subscription/lib/python3.10/site-packages/publisher_subscription
+[0.735s] copying /home/tejasarjuna/Learning_phase/build/publisher_subscription/build/lib/publisher_subscription/altitude_monitor.py -> /home/tejasarjuna/Learning_phase/install/publisher_subscription/lib/python3.10/site-packages/publisher_subscription
+[0.735s] copying /home/tejasarjuna/Learning_phase/build/publisher_subscription/build/lib/publisher_subscription/alt_pub.py -> /home/tejasarjuna/Learning_phase/install/publisher_subscription/lib/python3.10/site-packages/publisher_subscription
+[0.735s] copying /home/tejasarjuna/Learning_phase/build/publisher_subscription/build/lib/publisher_subscription/__init__.py -> /home/tejasarjuna/Learning_phase/install/publisher_subscription/lib/python3.10/site-packages/publisher_subscription
+[0.736s] byte-compiling /home/tejasarjuna/Learning_phase/install/publisher_subscription/lib/python3.10/site-packages/publisher_subscription/altitude_monitor.py to altitude_monitor.cpython-310.pyc
+[0.736s] byte-compiling /home/tejasarjuna/Learning_phase/install/publisher_subscription/lib/python3.10/site-packages/publisher_subscription/alt_pub.py to alt_pub.cpython-310.pyc
+[0.736s] byte-compiling /home/tejasarjuna/Learning_phase/install/publisher_subscription/lib/python3.10/site-packages/publisher_subscription/__init__.py to __init__.cpython-310.pyc
+[0.736s] running install_data
+[0.736s] copying resource/publisher_subscription -> /home/tejasarjuna/Learning_phase/install/publisher_subscription/share/ament_index/resource_index/packages
+[0.736s] copying package.xml -> /home/tejasarjuna/Learning_phase/install/publisher_subscription/share/publisher_subscription
+[0.736s] running install_egg_info
+[0.738s] Copying ../../build/publisher_subscription/publisher_subscription.egg-info to /home/tejasarjuna/Learning_phase/install/publisher_subscription/lib/python3.10/site-packages/publisher_subscription-0.0.0-py3.10.egg-info
+[0.738s] running install_scripts
+[0.751s] Installing alt_pub script to /home/tejasarjuna/Learning_phase/install/publisher_subscription/lib/publisher_subscription
+[0.751s] Installing altitude_monitor script to /home/tejasarjuna/Learning_phase/install/publisher_subscription/lib/publisher_subscription
+[0.751s] writing list of installed files to '/home/tejasarjuna/Learning_phase/build/publisher_subscription/install.log'
+[0.765s] Invoked command in '/home/tejasarjuna/Learning_phase/src/publisher_subscription' returned '0': PYTHONPATH=/home/tejasarjuna/Learning_phase/build/publisher_subscription/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/tejasarjuna/Learning_phase/install/publisher_subscription/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/publisher_subscription build --build-base /home/tejasarjuna/Learning_phase/build/publisher_subscription/build install --record /home/tejasarjuna/Learning_phase/build/publisher_subscription/install.log --single-version-externally-managed install_data --force

@@ -1,0 +1,23 @@
+running develop
+running egg_info
+creating publisher_subscription.egg-info
+writing publisher_subscription.egg-info/PKG-INFO
+writing dependency_links to publisher_subscription.egg-info/dependency_links.txt
+writing entry points to publisher_subscription.egg-info/entry_points.txt
+writing requirements to publisher_subscription.egg-info/requires.txt
+writing top-level names to publisher_subscription.egg-info/top_level.txt
+writing manifest file 'publisher_subscription.egg-info/SOURCES.txt'
+reading manifest file 'publisher_subscription.egg-info/SOURCES.txt'
+writing manifest file 'publisher_subscription.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/tejasarjuna/Learning_phase/install/publisher_subscription/lib/python3.10/site-packages/publisher-subscription.egg-link (link to .)
+Installing alt_pub script to /home/tejasarjuna/Learning_phase/install/publisher_subscription/lib/publisher_subscription
+Installing altitude_monitor script to /home/tejasarjuna/Learning_phase/install/publisher_subscription/lib/publisher_subscription
+
+Installed /home/tejasarjuna/Learning_phase/build/publisher_subscription
+running symlink_data
+creating /home/tejasarjuna/Learning_phase/install/publisher_subscription/share/ament_index
+creating /home/tejasarjuna/Learning_phase/install/publisher_subscription/share/ament_index/resource_index
+creating /home/tejasarjuna/Learning_phase/install/publisher_subscription/share/ament_index/resource_index/packages
+symbolically linking /home/tejasarjuna/Learning_phase/build/publisher_subscription/resource/publisher_subscription -> /home/tejasarjuna/Learning_phase/install/publisher_subscription/share/ament_index/resource_index/packages
+symbolically linking /home/tejasarjuna/Learning_phase/build/publisher_subscription/package.xml -> /home/tejasarjuna/Learning_phase/install/publisher_subscription/share/publisher_subscription

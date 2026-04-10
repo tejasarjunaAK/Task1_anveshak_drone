@@ -1,0 +1,3 @@
+[console_scripts]
+diamond_shape = diamond_shape_turtle.diamond_movement:main
+

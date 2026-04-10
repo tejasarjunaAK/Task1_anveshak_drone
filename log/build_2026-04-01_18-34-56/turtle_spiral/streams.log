@@ -1,0 +1,21 @@
+[0.668s] Invoking command in '/home/tejasarjuna/Learning_phase/src/turtle_spiral': PYTHONPATH=/home/tejasarjuna/Learning_phase/build/turtle_spiral/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/tejasarjuna/Learning_phase/install/turtle_spiral/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/turtle_spiral build --build-base /home/tejasarjuna/Learning_phase/build/turtle_spiral/build install --record /home/tejasarjuna/Learning_phase/build/turtle_spiral/install.log --single-version-externally-managed install_data
+[0.803s] running egg_info
+[0.803s] writing ../../build/turtle_spiral/turtle_spiral.egg-info/PKG-INFO
+[0.804s] writing dependency_links to ../../build/turtle_spiral/turtle_spiral.egg-info/dependency_links.txt
+[0.804s] writing entry points to ../../build/turtle_spiral/turtle_spiral.egg-info/entry_points.txt
+[0.804s] writing requirements to ../../build/turtle_spiral/turtle_spiral.egg-info/requires.txt
+[0.804s] writing top-level names to ../../build/turtle_spiral/turtle_spiral.egg-info/top_level.txt
+[0.805s] reading manifest file '../../build/turtle_spiral/turtle_spiral.egg-info/SOURCES.txt'
+[0.805s] writing manifest file '../../build/turtle_spiral/turtle_spiral.egg-info/SOURCES.txt'
+[0.805s] running build
+[0.805s] running build_py
+[0.806s] running install
+[0.806s] running install_lib
+[0.806s] running install_data
+[0.806s] running install_egg_info
+[0.808s] removing '/home/tejasarjuna/Learning_phase/install/turtle_spiral/lib/python3.10/site-packages/turtle_spiral-0.0.0-py3.10.egg-info' (and everything under it)
+[0.808s] Copying ../../build/turtle_spiral/turtle_spiral.egg-info to /home/tejasarjuna/Learning_phase/install/turtle_spiral/lib/python3.10/site-packages/turtle_spiral-0.0.0-py3.10.egg-info
+[0.808s] running install_scripts
+[0.821s] Installing turtle_spiral script to /home/tejasarjuna/Learning_phase/install/turtle_spiral/lib/turtle_spiral
+[0.821s] writing list of installed files to '/home/tejasarjuna/Learning_phase/build/turtle_spiral/install.log'
+[0.852s] Invoked command in '/home/tejasarjuna/Learning_phase/src/turtle_spiral' returned '0': PYTHONPATH=/home/tejasarjuna/Learning_phase/build/turtle_spiral/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/tejasarjuna/Learning_phase/install/turtle_spiral/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/turtle_spiral build --build-base /home/tejasarjuna/Learning_phase/build/turtle_spiral/build install --record /home/tejasarjuna/Learning_phase/build/turtle_spiral/install.log --single-version-externally-managed install_data

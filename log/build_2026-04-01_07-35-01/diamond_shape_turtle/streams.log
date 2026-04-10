@@ -1,0 +1,24 @@
+[0.526s] Invoking command in '/home/tejasarjuna/Learning_phase/src/diamond_shape_turtle': PYTHONPATH=/home/tejasarjuna/Learning_phase/build/diamond_shape_turtle/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/tejasarjuna/Learning_phase/install/diamond_shape_turtle/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/diamond_shape_turtle build --build-base /home/tejasarjuna/Learning_phase/build/diamond_shape_turtle/build install --record /home/tejasarjuna/Learning_phase/build/diamond_shape_turtle/install.log --single-version-externally-managed install_data
+[0.660s] running egg_info
+[0.661s] writing ../../build/diamond_shape_turtle/diamond_shape_turtle.egg-info/PKG-INFO
+[0.661s] writing dependency_links to ../../build/diamond_shape_turtle/diamond_shape_turtle.egg-info/dependency_links.txt
+[0.661s] writing entry points to ../../build/diamond_shape_turtle/diamond_shape_turtle.egg-info/entry_points.txt
+[0.661s] writing requirements to ../../build/diamond_shape_turtle/diamond_shape_turtle.egg-info/requires.txt
+[0.661s] writing top-level names to ../../build/diamond_shape_turtle/diamond_shape_turtle.egg-info/top_level.txt
+[0.662s] reading manifest file '../../build/diamond_shape_turtle/diamond_shape_turtle.egg-info/SOURCES.txt'
+[0.663s] writing manifest file '../../build/diamond_shape_turtle/diamond_shape_turtle.egg-info/SOURCES.txt'
+[0.663s] running build
+[0.663s] running build_py
+[0.663s] copying diamond_shape_turtle/diamond_movement.py -> /home/tejasarjuna/Learning_phase/build/diamond_shape_turtle/build/lib/diamond_shape_turtle
+[0.663s] running install
+[0.663s] running install_lib
+[0.663s] copying /home/tejasarjuna/Learning_phase/build/diamond_shape_turtle/build/lib/diamond_shape_turtle/diamond_movement.py -> /home/tejasarjuna/Learning_phase/install/diamond_shape_turtle/lib/python3.10/site-packages/diamond_shape_turtle
+[0.664s] byte-compiling /home/tejasarjuna/Learning_phase/install/diamond_shape_turtle/lib/python3.10/site-packages/diamond_shape_turtle/diamond_movement.py to diamond_movement.cpython-310.pyc
+[0.664s] running install_data
+[0.664s] running install_egg_info
+[0.666s] removing '/home/tejasarjuna/Learning_phase/install/diamond_shape_turtle/lib/python3.10/site-packages/diamond_shape_turtle-0.0.0-py3.10.egg-info' (and everything under it)
+[0.666s] Copying ../../build/diamond_shape_turtle/diamond_shape_turtle.egg-info to /home/tejasarjuna/Learning_phase/install/diamond_shape_turtle/lib/python3.10/site-packages/diamond_shape_turtle-0.0.0-py3.10.egg-info
+[0.666s] running install_scripts
+[0.679s] Installing diamond_shape script to /home/tejasarjuna/Learning_phase/install/diamond_shape_turtle/lib/diamond_shape_turtle
+[0.679s] writing list of installed files to '/home/tejasarjuna/Learning_phase/build/diamond_shape_turtle/install.log'
+[0.693s] Invoked command in '/home/tejasarjuna/Learning_phase/src/diamond_shape_turtle' returned '0': PYTHONPATH=/home/tejasarjuna/Learning_phase/build/diamond_shape_turtle/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/tejasarjuna/Learning_phase/install/diamond_shape_turtle/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/diamond_shape_turtle build --build-base /home/tejasarjuna/Learning_phase/build/diamond_shape_turtle/build install --record /home/tejasarjuna/Learning_phase/build/diamond_shape_turtle/install.log --single-version-externally-managed install_data

@@ -1,0 +1,17 @@
+package.xml
+setup.cfg
+setup.py
+../../build/publisher_subscription/publisher_subscription.egg-info/PKG-INFO
+../../build/publisher_subscription/publisher_subscription.egg-info/SOURCES.txt
+../../build/publisher_subscription/publisher_subscription.egg-info/dependency_links.txt
+../../build/publisher_subscription/publisher_subscription.egg-info/entry_points.txt
+../../build/publisher_subscription/publisher_subscription.egg-info/requires.txt
+../../build/publisher_subscription/publisher_subscription.egg-info/top_level.txt
+../../build/publisher_subscription/publisher_subscription.egg-info/zip-safe
+publisher_subscription/__init__.py
+publisher_subscription/alt_pub.py
+publisher_subscription/altitude_monitor.py
+resource/publisher_subscription
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py
